@@ -13,3 +13,13 @@ Source of Apple Data: https://www.kaggle.com/ramamet4/app-store-apple-data-set-1
 *This was a guided project a part of Dataquest project: Profitable App Profiles for the App Store and Google Play Market
 
 Project : https://github.com/cybersecurebyte/Dataquest_projects/blob/main/appAudienceEngagement.ipynb
+
+Code: https://github.com/cybersecurebyte/Dataquest_projects/blob/main/appAudienceEngagement%20(1).py
+
+## 2) Exploring Hacker News Post:
+
+
+
+Project:
+
+Code:
