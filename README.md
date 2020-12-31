@@ -20,6 +20,6 @@ Code: https://github.com/cybersecurebyte/Dataquest_projects/blob/main/appAudienc
 
 The purpose of this project was to analyze a subset of submissions to the Hacker News website who's post were either question post, or project/product post to determine which post recieve more comments on average, and which times could posting acquire the most comments.
 
-Project:
+Project:https://github.com/cybersecurebyte/Dataquest_projects/blob/main/HackerNewsProject.ipynb
 
-Code:
+Code:https://github.com/cybersecurebyte/Dataquest_projects/blob/main/HackerNewsProject.py
