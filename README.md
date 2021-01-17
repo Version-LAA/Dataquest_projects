@@ -23,3 +23,6 @@ The purpose of this project was to analyze a subset of submissions to the Hacker
 Project:https://github.com/cybersecurebyte/Dataquest_projects/blob/main/HackerNewsProject.ipynb
 
 Code:https://github.com/cybersecurebyte/Dataquest_projects/blob/main/HackerNewsProject.py
+
+
+## 3) Exploring Ebay Car Sales Data
